@@ -1,0 +1,95 @@
+C:\edo\projects\Test API\bin\Test API.dll.config
+C:\edo\projects\Test API\bin\Test API.dll
+C:\edo\projects\Test API\bin\Test API.pdb
+C:\edo\projects\Test API\bin\roslyn\csc.exe
+C:\edo\projects\Test API\bin\roslyn\csc.exe.config
+C:\edo\projects\Test API\bin\roslyn\csc.rsp
+C:\edo\projects\Test API\bin\roslyn\csi.exe
+C:\edo\projects\Test API\bin\roslyn\csi.exe.config
+C:\edo\projects\Test API\bin\roslyn\csi.rsp
+C:\edo\projects\Test API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\edo\projects\Test API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\edo\projects\Test API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\edo\projects\Test API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\edo\projects\Test API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\edo\projects\Test API\bin\roslyn\System.AppContext.dll
+C:\edo\projects\Test API\bin\roslyn\System.Collections.Immutable.dll
+C:\edo\projects\Test API\bin\roslyn\System.Console.dll
+C:\edo\projects\Test API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\edo\projects\Test API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\edo\projects\Test API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\edo\projects\Test API\bin\roslyn\System.Globalization.Calendars.dll
+C:\edo\projects\Test API\bin\roslyn\System.IO.Compression.dll
+C:\edo\projects\Test API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\edo\projects\Test API\bin\roslyn\System.IO.FileSystem.dll
+C:\edo\projects\Test API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\edo\projects\Test API\bin\roslyn\System.Net.Http.dll
+C:\edo\projects\Test API\bin\roslyn\System.Net.Sockets.dll
+C:\edo\projects\Test API\bin\roslyn\System.Reflection.Metadata.dll
+C:\edo\projects\Test API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\edo\projects\Test API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\edo\projects\Test API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\edo\projects\Test API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\edo\projects\Test API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\edo\projects\Test API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\edo\projects\Test API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\edo\projects\Test API\bin\roslyn\System.ValueTuple.dll
+C:\edo\projects\Test API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\edo\projects\Test API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\edo\projects\Test API\bin\roslyn\System.Xml.XPath.dll
+C:\edo\projects\Test API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\edo\projects\Test API\bin\roslyn\vbc.exe
+C:\edo\projects\Test API\bin\roslyn\vbc.exe.config
+C:\edo\projects\Test API\bin\roslyn\vbc.rsp
+C:\edo\projects\Test API\bin\roslyn\VBCSCompiler.exe
+C:\edo\projects\Test API\bin\roslyn\VBCSCompiler.exe.config
+C:\edo\projects\Test API\bin\Antlr3.Runtime.dll
+C:\edo\projects\Test API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\edo\projects\Test API\bin\Microsoft.Web.Infrastructure.dll
+C:\edo\projects\Test API\bin\Newtonsoft.Json.dll
+C:\edo\projects\Test API\bin\System.Net.Http.Formatting.dll
+C:\edo\projects\Test API\bin\System.Web.Helpers.dll
+C:\edo\projects\Test API\bin\System.Web.Http.dll
+C:\edo\projects\Test API\bin\System.Web.Http.WebHost.dll
+C:\edo\projects\Test API\bin\System.Web.Mvc.dll
+C:\edo\projects\Test API\bin\System.Web.Optimization.dll
+C:\edo\projects\Test API\bin\System.Web.Razor.dll
+C:\edo\projects\Test API\bin\System.Web.WebPages.Deployment.dll
+C:\edo\projects\Test API\bin\System.Web.WebPages.dll
+C:\edo\projects\Test API\bin\System.Web.WebPages.Razor.dll
+C:\edo\projects\Test API\bin\WebGrease.dll
+C:\edo\projects\Test API\bin\Newtonsoft.Json.xml
+C:\edo\projects\Test API\bin\System.Net.Http.Formatting.xml
+C:\edo\projects\Test API\bin\System.Web.Helpers.xml
+C:\edo\projects\Test API\bin\System.Web.Http.xml
+C:\edo\projects\Test API\bin\System.Web.Http.WebHost.xml
+C:\edo\projects\Test API\bin\System.Web.Mvc.xml
+C:\edo\projects\Test API\bin\System.Web.Optimization.xml
+C:\edo\projects\Test API\bin\System.Web.Razor.xml
+C:\edo\projects\Test API\bin\System.Web.WebPages.xml
+C:\edo\projects\Test API\bin\System.Web.WebPages.Deployment.xml
+C:\edo\projects\Test API\bin\System.Web.WebPages.Razor.xml
+C:\edo\projects\Test API\bin\Antlr3.Runtime.pdb
+C:\edo\projects\Test API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\edo\projects\Test API\bin\it\System.Net.Http.Formatting.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.Helpers.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.Http.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.Http.WebHost.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.Mvc.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.Optimization.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.Razor.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.WebPages.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\edo\projects\Test API\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\edo\projects\Test API\obj\Release\Test API.csproj.AssemblyReference.cache
+C:\edo\projects\Test API\obj\Release\Test API.csproj.CoreCompileInputs.cache
+C:\edo\projects\Test API\obj\Release\Test API.csproj.Up2Date
+C:\edo\projects\Test API\obj\Release\Test API.dll
+C:\edo\projects\Test API\obj\Release\Test API.pdb
